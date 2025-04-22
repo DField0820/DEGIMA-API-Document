@@ -1,7 +1,7 @@
 # Create chat completion
 
 ```http
-POST https://cyber.degima.ai:11000/v1/chat/completions
+POST https://xxxx.degima.ai:11000/v1/chat/completions
 ```
 
 ## Request body
